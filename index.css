@@ -91,3 +91,7 @@ footer p {
     font-size: xx-large;
    
 }
+
+.navigation > li:hover {
+    border-bottom: 1px solid white;
+}
