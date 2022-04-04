@@ -1,0 +1,93 @@
+body{
+   color: white;
+   background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;  
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #601ea2;
+    object-fit: cover;  
+}
+
+.center {
+    text-align: center;
+}
+
+h1{
+    color: purple ;
+}
+
+h2{
+    color: purple;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.fonte{
+    font-family:'Courier New', Courier, monospace ;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+}
+
+footer p {
+    margin: 2px;
+}
+
+.contato{
+    text-align: center;
+    font-size:xx-large;
+    color: purple;
+}
+
+.insta{
+    width: 50px;
+    height: 40px;
+    margin: 10px;   
+    object-fit:cover
+}
+
+.insta-texto{
+    margin: 2px;
+}
+
+.imagem-insta{
+    margin: auto;
+    width: 70px;
+}
+
+.wpptexto{
+    margin: auto;
+    width: 70px;
+}
+
+.textoexplicacao{
+    font-size: xx-large;
+   
+}
